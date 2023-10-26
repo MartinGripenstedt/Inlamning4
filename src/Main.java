@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hej Kalle!");
         System.out.println("HEj Martin!");
-        System.out.println("Hej då Kalle");
+        System.out.println("Hej då Kalle!");
     }
 }
